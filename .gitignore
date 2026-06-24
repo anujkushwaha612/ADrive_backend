@@ -1,0 +1,13 @@
+node_modules
+public
+storage
+trash
+foldersDB.json
+filesDB.json
+usersDB.json
+.env
+interview_guide.md
+private_key.pem
+public_key.pem
+anuj0612-storage-app-server.pem
+todo.md
